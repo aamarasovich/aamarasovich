@@ -1,4 +1,4 @@
-## Attempt numero uno at completing the read me heyo did i do it
+## Alex learns to code:
 
 <!--
 **aamarasovich/aamarasovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
